@@ -1,14 +1,21 @@
 # react-gatsby-blog
 
 ## What is this?
-A simple blog boilerplate made in GatsbyJS. 
+My first simple blog made in GatsbyJS, trying out how it works. 
 
 ## Features
 
-This boilerplate features the latest tools in the industry:
+This boilerplate features:
 
   * React.js
   * Gatsby GraphQL
+  * Server side rendering
+  
+## Additional Installs
+
+  * gatsby-source-filesystem
+  * gatsby-transformer-remark
+  * gatsby-plugin-catch-links
   
 ## Quick start
 
@@ -19,4 +26,4 @@ This boilerplate features the latest tools in the industry:
 
 ## 💫 Demo
 
-[![See Demo at Netlify](https://www.netlify.com/img/deploy/button.svg)](https://react-gatsby-blog.netlify.com)
+[See Demo at Netlify](https://react-gatsby-blog.netlify.com)
