@@ -1,13 +1,13 @@
 # react-gatsby-blog
 
 ## What is this?
-My first simple blog made in GatsbyJS, trying out how it works. 
+My first simple blog made in GatsbyJS, a great technology for building blazing fast static websites. 
 
 ## Features
 
 This boilerplate features:
 
-  * React.js
+  * Reactjs
   * Gatsby GraphQL
   * Server side rendering
   
