@@ -7,7 +7,7 @@ My first simple blog made in GatsbyJS, a great technology for building blazing f
 
 This boilerplate features:
 
-  * Reactjs
+  * ReactJs
   * Gatsby GraphQL
   * Server side rendering
   
